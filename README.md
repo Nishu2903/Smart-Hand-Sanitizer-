@@ -3,13 +3,10 @@ A IOT Based Smart Sanitizer using IR Sensor and Servo Motor.
 
 
 ## Overview
-This project focuses on creating an automatic hand sanitizer dispenser using IoT, Arduino, an IR sensor, and a servo motor. The system is designed to provide a contactless and efficient solution for hand sanitization.
+This project focuses on creating an automatic hand sanitizer dispenser using IoT, Arduino, an IR sensor, and a servo motor. The system is designed to provide a contactless and efficient solution for hand sanitization. The motivation behind embarking on this project lies in addressing the pressing need for advanced and hygienic solutions in the era of heightened health consciousness, particularly during the COVID-19 pandemic. As traditional methods of hand sanitization prove to be cumbersome and potentially less effective in public spaces, the integration of cutting-edge technologies such as IoT, Arduino, IR sensor, and servo motor presents an exciting opportunity to revolutionize this essential aspect of public health. The motivation is fueled by the desire to contribute to a safer and more convenient environment, enabling individuals to adhere to stringent hygiene practices effortlessly.
 
 ## Problem Statement
 In the wake of global health concerns, there is a need for touch-free solutions to promote hand hygiene. This project addresses the challenge of providing a convenient and automatic hand sanitization process.
-
-## Motivation
-The motivation behind this project is to contribute to public health by creating a system that reduces the risk of germ transmission through shared surfaces. The integration of IoT and automation enhances user experience and encourages regular hand sanitization.
 
 ## Proposed Solution
 The proposed solution involves the use of Arduino for control, an IR sensor for hand detection, and a servo motor for dispensing the sanitizer. IoT connectivity allows for remote monitoring and control.
@@ -30,7 +27,7 @@ The proposed solution involves the use of Arduino for control, an IR sensor for 
 ## Software Technologies Used
 - Arduino IDE for programming the Arduino board
 - IoT platform (e.g., Blynk, ThingSpeak) for remote monitoring
-- Circuit simulation software (optional)
+- Circuit simulation software.
 
 ## Block Diagram
 ![Block Diagram](link-to-your-image-file.png)
