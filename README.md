@@ -33,7 +33,8 @@ The proposed solution involves the use of Arduino for control, an IR sensor for 
 ![block](https://github.com/Nishu2903/Smart-Hand-Sanitizer-/assets/117971452/a1c0d9ee-460c-42b5-8872-08ec664203ff)
 
 ## Circuit Diagram
-![Circuit Diagram](link-to-your-image-file.png)
+![image](https://github.com/Nishu2903/Smart-Hand-Sanitizer-/assets/117971452/a44b50a8-c1f8-4bdc-bd4e-60dd7a8051fb)
+
 
 ## Workflow
 1. IR sensor detects the presence of hands.
