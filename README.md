@@ -30,8 +30,7 @@ The proposed solution involves the use of Arduino for control, an IR sensor for 
 - Circuit simulation software.
 
 ## Block Diagram
-![Block Diagram ](https://github.com/Nishu2903/Smart-Hand-Sanitizer-/assets/117971452/d3e1c37e-0a2c-487d-8b55-f4cd34ed26ca)
-
+![block](https://github.com/Nishu2903/Smart-Hand-Sanitizer-/assets/117971452/a1c0d9ee-460c-42b5-8872-08ec664203ff)
 
 ## Circuit Diagram
 ![Circuit Diagram](link-to-your-image-file.png)
