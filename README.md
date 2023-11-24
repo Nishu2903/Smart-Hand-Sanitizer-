@@ -35,9 +35,7 @@ https://github.com/Nishu2903/Smart-Hand-Sanitizer-/assets/117971452/ee96582f-855
 - Circuit simulation software.
 
 ## Block Diagram
-<img src="https://github.com/Nishu2903/Smart-Hand-Sanitizer-/assets/117971452/a1c0d9ee-460c-42b5-8872-08ec664203ff" width="500" height="700">
-
-![block](https://github.com/Nishu2903/Smart-Hand-Sanitizer-/assets/117971452/a1c0d9ee-460c-42b5-8872-08ec664203ff)
+<img src="https://github.com/Nishu2903/Smart-Hand-Sanitizer-/assets/117971452/a1c0d9ee-460c-42b5-8872-08ec664203ff" width="500" height="300">
 
 ## Circuit Diagram
 ![image](https://github.com/Nishu2903/Smart-Hand-Sanitizer-/assets/117971452/a44b50a8-c1f8-4bdc-bd4e-60dd7a8051fb)
