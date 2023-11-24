@@ -39,6 +39,13 @@ https://github.com/Nishu2903/Smart-Hand-Sanitizer-/assets/117971452/ee96582f-855
 
 ## Circuit Diagram
 ![image](https://github.com/Nishu2903/Smart-Hand-Sanitizer-/assets/117971452/a44b50a8-c1f8-4bdc-bd4e-60dd7a8051fb)
+Demo Video: 
+
+
+https://github.com/Nishu2903/Smart-Hand-Sanitizer-/assets/117971452/cac8bfc1-d4f5-48a2-b641-a4abfbd460ef
+
+
+
 
 ## IR Sensor 
 ![image (1)](https://github.com/Nishu2903/Smart-Hand-Sanitizer-/assets/117971452/df18a9a4-68bb-451f-98b1-81817abc029a)
