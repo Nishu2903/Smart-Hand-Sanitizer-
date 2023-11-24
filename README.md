@@ -35,10 +35,10 @@ https://github.com/Nishu2903/Smart-Hand-Sanitizer-/assets/117971452/ee96582f-855
 - Circuit simulation software.
 
 ## Block Diagram
-<img src="https://github.com/Nishu2903/Smart-Hand-Sanitizer-/assets/117971452/a1c0d9ee-460c-42b5-8872-08ec664203ff" width="500" height="300">
+<img src="https://github.com/Nishu2903/Smart-Hand-Sanitizer-/assets/117971452/a1c0d9ee-460c-42b5-8872-08ec664203ff" width="500" height="200">
 
 ## Circuit Diagram
-<img src="https://github.com/Nishu2903/Smart-Hand-Sanitizer-/assets/117971452/a44b50a8-c1f8-4bdc-bd4e-60dd7a8051fb)" width="500" height="180">
+<img src="https://github.com/Nishu2903/Smart-Hand-Sanitizer-/assets/117971452/a44b50a8-c1f8-4bdc-bd4e-60dd7a8051fb)" width="500" height="200">
 
 Demo Video: 
 
@@ -49,7 +49,7 @@ https://github.com/Nishu2903/Smart-Hand-Sanitizer-/assets/117971452/cac8bfc1-d4f
 
 
 ## IR Sensor 
-<img src="https://github.com/Nishu2903/Smart-Hand-Sanitizer-/assets/117971452/df18a9a4-68bb-451f-98b1-81817abc029a))" width="500" height="180">
+<img src="https://github.com/Nishu2903/Smart-Hand-Sanitizer-/assets/117971452/df18a9a4-68bb-451f-98b1-81817abc029a))" width="500" height="200">
 
 
 The IR Sensor Module consists of the following components:The infrared receiver Led and the photo diode constitute the main parts of this sensor module. The photo diode emits the infrared radiations which strike any object and reflect back with some angle. The IR receiver TSFF5210 detects these reflected radiations.
