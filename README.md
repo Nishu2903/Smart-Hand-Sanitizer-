@@ -36,7 +36,7 @@ The proposed solution involves the use of Arduino for control, an IR sensor for 
 ![image](https://github.com/Nishu2903/Smart-Hand-Sanitizer-/assets/117971452/a44b50a8-c1f8-4bdc-bd4e-60dd7a8051fb)
 
 ## IR Sensor 
-![image](https://github.com/Nishu2903/Smart-Hand-Sanitizer-/assets/117971452/7ba5382f-5c11-4fd5-a7be-e0afe16afed0)
+![image](https://github.com/Nishu2903/Smart-Hand-Sanitizer-/assets/117971452/fb06f4c8-bd30-4f9a-84f6-c054f1198675)
 
 The IR Sensor Module consists of the following components:The infrared receiver Led and the photo diode constitute the main parts of this sensor module. The photo diode emits the infrared radiations which strike any object and reflect back with some angle. The IR receiver TSFF5210 detects these reflected radiations.
 1. IR receiver TSFF5210
