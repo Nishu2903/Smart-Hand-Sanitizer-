@@ -34,19 +34,15 @@ https://github.com/Nishu2903/Smart-Hand-Sanitizer-/assets/117971452/ee96582f-855
 - IoT platform (e.g., Blynk, ThingSpeak) for remote monitoring
 - Circuit simulation software.
 
+Connection Video
+
+
+https://github.com/Nishu2903/Smart-Hand-Sanitizer-/assets/117971452/cac8bfc1-d4f5-48a2-b641-a4abfbd460ef
 ## Block Diagram
 <img src="https://github.com/Nishu2903/Smart-Hand-Sanitizer-/assets/117971452/a1c0d9ee-460c-42b5-8872-08ec664203ff" width="500" height="200">
 
 ## Circuit Diagram
 <img src="https://github.com/Nishu2903/Smart-Hand-Sanitizer-/assets/117971452/a44b50a8-c1f8-4bdc-bd4e-60dd7a8051fb)" width="500" height="200">
-
-Demo Video: 
-
-
-https://github.com/Nishu2903/Smart-Hand-Sanitizer-/assets/117971452/cac8bfc1-d4f5-48a2-b641-a4abfbd460ef
-
-
-
 
 ## IR Sensor 
 <img src="https://github.com/Nishu2903/Smart-Hand-Sanitizer-/assets/117971452/df18a9a4-68bb-451f-98b1-81817abc029a))" width="500" height="200">
