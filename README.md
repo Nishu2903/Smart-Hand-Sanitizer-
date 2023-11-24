@@ -1,4 +1,4 @@
-# Smart-Hand-Sanitizer-
+# Smart-Hand-Sanitizer
 A IOT Based Smart Sanitizer using IR Sensor and Servo Motor.
 
 
@@ -30,7 +30,8 @@ The proposed solution involves the use of Arduino for control, an IR sensor for 
 - Circuit simulation software.
 
 ## Block Diagram
-![Block Diagram](link-to-your-image-file.png)
+![Block Diagram](https://github.com/Nishu2903/Smart-Hand-Sanitizer-/assets/117971452/4c359033-e32a-4a44-a07a-dd834531e2d7)
+
 
 ## Circuit Diagram
 ![Circuit Diagram](link-to-your-image-file.png)
