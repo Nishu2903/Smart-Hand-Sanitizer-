@@ -12,7 +12,7 @@ In the wake of global health concerns, there is a need for touch-free solutions 
 The proposed solution involves the use of Arduino for control, an IR sensor for hand detection, and a servo motor for dispensing the sanitizer. IoT connectivity allows for remote monitoring and control.
 
 Demo Video: 
-![DemoVide](https://github.com/Nishu2903/Smart-Hand-Sanitizer-/assets/117971452/ee96582f-8559-41df-b610-27c27f753d01)
+![DemoVideo]https://github.com/Nishu2903/Smart-Hand-Sanitizer-/assets/117971452/ee96582f-8559-41df-b610-27c27f753d01
 
 
 ## Features
