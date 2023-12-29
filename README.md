@@ -28,6 +28,7 @@ https://github.com/Nishu2903/Smart-Hand-Sanitizer-/assets/117971452/ee96582f-855
 - Servo motor
 - Sanitizer reservoir and dispensing mechanism
 - IoT module (e.g., ESP8266)
+- HC05 Bluetooth
 
 ## Software Technologies Used
 - Arduino IDE for programming the Arduino board
@@ -57,14 +58,34 @@ The IR Sensor Module consists of the following components:The infrared receiver 
 6. LM358 IC
 
 
+
 ## Workflow
 1. IR sensor detects the presence of hands.
 2. Arduino processes the signal and activates the servo motor.
 3. Servo motor dispenses the sanitizer.
 4. IoT module enables remote monitoring and control.
 
+
+## 2way Blutooth Communication
+HC-05 Bluetooth Configuration for Master-Slave Communication:
+
+1. Hardware Connections:
+Enable Pin: 3.3V
+VCC: 5V
+GND: GND
+TX: Arduino TX
+RX: Arduino RX
+2. Entering AT Mode: Press the Bluetooth button, LED should blink with a delay in AT mode.
+3. Slave Configuration: Set the serial monitor baud rate to 38400 for AT commands. Set role to 0 for slave mode using the command: AT+ROLE=0. In slave mode, Bluetooth will not connect without permission. Check the MAC address of the slave using the command: AT+ADDR?
+
+4. Master Configuration: Set the serial monitor baud rate to 38400 for AT commands. Set role to 1 for master mode using the command: AT+ROLE=1. Bind the master to the slave using the command: AT+BIND=00,MAC_ADDR. Replace colons in the MAC address with commas.
+
+5. Serial Communication: For regular serial communication (not AT commands), set the baud rate to 9600: Serial.begin(9600).
+6. General Information: USB (Universal Serial Bus) is used for serial communication. Baud rate is the speed at which serial communication occurs. Ensure that the baud rate of the sender and receiver matches for proper text display.
+
 ## Result and Discussion
 The system successfully provides a touch-free hand sanitization experience. Challenges faced during implementation and potential improvements are discussed in detail.
+
 
 ## Scope of the Project
 Future enhancements may include:
